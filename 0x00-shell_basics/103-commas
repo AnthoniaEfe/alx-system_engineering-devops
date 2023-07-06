@@ -1,1 +1,2 @@
-#!/bin/bash \nls -vamp
+#!/bin/bash 
+ls -vamp

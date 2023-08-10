@@ -1,1 +1,1 @@
-Shell permissions practice
+Learn Shell script
